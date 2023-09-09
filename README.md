@@ -2,7 +2,7 @@
 ![Screenshot 2023-09-09 234308](https://github.com/jaideepsingh0085/box-model/assets/128147644/f7a7cb31-fcac-444c-a84e-4ca598be2dbc)
 ![Screenshot 2023-09-09 234318](https://github.com/jaideepsingh0085/box-model/assets/128147644/1e0a4a50-50d6-4f54-83aa-7d455030f835)
 
-Hosted Link :
+Hosted Link : https://jaideepsingh0085.github.io/box-model/
 
  HTML Tags description :
 <body>: Represents the main content of the HTML document.
